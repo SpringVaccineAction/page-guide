@@ -1,0 +1,82 @@
+@media (max-width: 798px) {
+    .chunmiao {
+        height: 56px !important;
+        margin: 20px auto 0 16px !important;
+        content: url('/image/cmxd_small.svg');
+    }
+}
+.navbar {
+    overflow: hidden;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+    border-bottom: 1px solid #f5f3f3;
+    height: 96px;
+    /* box-shadow: 0 1px 5px 3px rgb(46 50 52 / 10%); */
+}
+a.version-tag {
+    font-size: 12px;
+    margin-left: 6px;
+    border-radius: 2px;
+    font-weight: 600;
+    color: #717171;
+    padding: 2px;
+
+
+}
+a.version-tag:after {
+    position: absolute;
+    content: "";
+    bottom: 4px;
+    width: 14px;
+    height: 18px;
+    z-index: -1;
+    background-color: #ffe3a6;
+    border-radius: 0px;
+    transform: rotate(-12deg);
+    margin-left: -19px;
+}
+.container {
+    margin-top: 109px;
+}
+.book-toc .book-toc-content,
+.book-menu .book-menu-content {
+    top: 109px;
+}
+.chunmiao {
+    height: 66px;
+    margin: 12px auto 0 24px;
+}
+.markdown pre {
+    border-radius: 0;
+}
+section.footnotes {
+    font-size: 14px;
+}
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+.markdown table {
+    display: table;
+    width: 100%;
+}
+.markdown table th,
+.markdown table td {
+    border-left: 0 !important;
+    border-right: 0 !important;
+}
+.markdown table tr td {
+    font-size: 14px;
+    padding: 0.8rem 1rem !important;
+}
+.markdown table th {
+    color: #868e96;
+    font-size: 80%;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-top: 0 !important;
+}

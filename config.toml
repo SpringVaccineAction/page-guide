@@ -1,0 +1,64 @@
+baseURL = 'https://cmxd.work'
+title = '新冠疫苗接种指南'
+languageCode = "en-zh"
+defaultContentLanguage = "zh"
+theme = 'book'
+enableEmoji = true
+disablePathToLower = true
+enableGitInfo = false
+googleAnalytics = ""
+#publishDir=""
+#ignoreFiles = ["^.+/content/snippet/.+$"]
+
+[Params]
+customCSS = ["css/custom.css"]
+#customJS = ["js/custom.js"]
+CopyRight = "Design by 六二三"
+description = "海外中国公民接种新冠肺炎疫苗计划指南"
+BookTheme = 'light'
+BookToC = true
+BookSection = '*'
+BookRepo = 'https://github.com/SpringVaccineAction/page-guide'
+BookEditPath = 'edit/master'
+BookDateFormat = 'January 2, 2006'
+BookSearch = true
+BookComments = false
+BookPortableLinks = true
+BookServiceWorker = true
+BookTranslatedOnly = false
+bookFlatSection = true
+bookCollapseSection = true
+bookHidden = false
+bookComments = false
+bookSearchExclude = true
+
+[Params.meta]
+favicon = true
+favicon_ico = "favicon.ico"
+favicon_ico_sizes = "16x16 32x32"
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.tableOfContents]
+startLevel = 1
+
+[languages]
+[languages.zh]
+languageName = 'Chinese'
+contentDir = 'content'
+weight = 1
+
+[languages.en]
+languageName = 'English'
+contentDir = 'content.en'
+weight = 2
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+name = "Github"
+url = "https://github.com/SpringVaccineAction"
+weight = 20

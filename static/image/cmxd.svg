@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1045px" height="115px" viewBox="0 0 1045 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 25</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FC8C8C" offset="0%"></stop>
+            <stop stop-color="#F95353" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FC8C8C" offset="0%"></stop>
+            <stop stop-color="#F95353" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FC8C8C" offset="0%"></stop>
+            <stop stop-color="#F95353" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FC8C8C" offset="0%"></stop>
+            <stop stop-color="#F95353" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FC8C8C" offset="0%"></stop>
+            <stop stop-color="#F95353" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#8CC9FC" offset="0%"></stop>
+            <stop stop-color="#5388F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-25" transform="translate(3.000000, 1.000000)">
+            <text id="春苗行动" font-family="FZMWJW--GB1-0, FZMiaoWuS-GB" font-size="72" font-weight="normal" fill="#000000">
+                <tspan x="134" y="93">春苗行动</tspan>
+            </text>
+            <g id="Group-24" transform="translate(0.000000, 17.000000)" stroke-linecap="square" stroke-width="4">
+                <line x1="77.3389831" y1="0.657407407" x2="0.661016949" y2="70.3425926" id="Line-10" stroke="url(#linearGradient-1)"></line>
+                <line x1="47.6632653" y1="4.65714286" x2="111.336735" y2="49.3428571" id="Line-11" stroke="url(#linearGradient-2)"></line>
+                <line x1="77.3382353" y1="39.6551724" x2="33.6617647" y2="76.3448276" id="Line-12" stroke="url(#linearGradient-3)"></line>
+                <line x1="47.6632653" y1="45.6515152" x2="111.336735" y2="87.3484848" id="Line-13" stroke="url(#linearGradient-4)"></line>
+                <line x1="62.3333333" y1="4.66071429" x2="59.6666667" y2="77.3392857" id="Line-14" stroke="url(#linearGradient-5)"></line>
+            </g>
+            <line x1="444" y1="2.27330307e-13" x2="444" y2="113" id="Line-2" stroke="url(#linearGradient-6)" stroke-width="2" stroke-linecap="square"></line>
+            <text id="海外中国公民接种新冠肺炎疫苗计划" font-family="PingFangSC-Regular, PingFang SC" font-size="36" font-weight="normal" fill="#000000">
+                <tspan x="466" y="93">海外中国公民接种新冠肺炎疫苗计划</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
