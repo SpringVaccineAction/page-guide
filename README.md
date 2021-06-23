@@ -1,9 +1,4 @@
 # Page Guide
 
-
-* news
-* list
-  case
-  guide
-  bill
-* faq
+* Latest News
+* FAQ
