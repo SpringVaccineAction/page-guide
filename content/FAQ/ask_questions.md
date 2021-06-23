@@ -5,18 +5,17 @@ weight: 2
 
 ## 1.世界卫生组织(WHO)认证疫苗的施打针剂间隔周期
 
-* [Pfizer BioNTech COVID-19 vaccine](https://www.who.int/news-room/feature-stories/detail/who-can-take-the-pfizer-biontech-covid-19--vaccine): 两针，间隔21天；
+* [中国科兴 Vacuna CoronaVac (Laboratorio Sinovac)](https://www.who.int/news-room/feature-stories/detail/the-sinovac-covid-19-vaccine-what-you-need-to-know): 两针，间隔28天；
 
-* [Vacuna CoronaVac (Laboratorio Sinovac)](https://www.who.int/news-room/feature-stories/detail/the-sinovac-covid-19-vaccine-what-you-need-to-know): 两针，间隔28天；
+* [中国国药生物 Sinopharm COVID-19 vaccine](https://www.who.int/news-room/feature-stories/detail/the-sinopharm-covid-19-vaccine-what-you-need-to-know): 两针，间隔28天；
 
-* [AstraZeneca/Oxford vaccine(AZD1222)](https://www.who.int/news-room/feature-stories/detail/the-oxford-astrazeneca-covid-19-vaccine-what-you-need-to-know): 两针，间隔28天；
+* [辉瑞 Pfizer BioNTech COVID-19 vaccine](https://www.who.int/news-room/feature-stories/detail/who-can-take-the-pfizer-biontech-covid-19--vaccine): 两针，间隔21天；
 
-* [Sinopharm COVID-19 vaccine](https://www.who.int/news-room/feature-stories/detail/the-sinopharm-covid-19-vaccine-what-you-need-to-know): 两针，间隔28天；
+* [莫德纳 Moderna COVID-19 (mRNA-1273) vaccine](https://www.who.int/news-room/feature-stories/detail/the-moderna-covid-19-mrna-1273-vaccine-what-you-need-to-know): 两针，间隔28天；
 
-* [Johnson and Johnson vaccine](https://www.who.int/news-room/feature-stories/detail/the-j-j-covid-19-vaccine-what-you-need-to-know): 两针，最小间隔14天；
+* [强生 Johnson and Johnson vaccine](https://www.who.int/news-room/feature-stories/detail/the-j-j-covid-19-vaccine-what-you-need-to-know): 两针，最小间隔14天；
 
-* [Moderna COVID-19 (mRNA-1273) vaccine](https://www.who.int/news-room/feature-stories/detail/the-moderna-covid-19-mrna-1273-vaccine-what-you-need-to-know): 两针，间隔28天；
-
+* [阿斯利康 AstraZeneca/Oxford vaccine(AZD1222)](https://www.who.int/news-room/feature-stories/detail/the-oxford-astrazeneca-covid-19-vaccine-what-you-need-to-know): 两针，间隔28天；
 
 ## 2.注意事项
 
