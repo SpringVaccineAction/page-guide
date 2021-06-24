@@ -30,7 +30,7 @@ type: docs
 | 乍得| 2021/6/5| 中国疫苗(国药| - | [参见](https://baijiahao.baidu.com/s?id=1701830651855616104&wfr=spider&for=pc)|
 | 塞尔维亚(波黑,北马其顿,保加利亚,罗马尼亚| 2021/6/2| 中国疫苗| | [参见](https://mp.weixin.qq.com/s/6KVB4yLq65iN9sWx3fIgPA)|
 | 阿曼| 2021/6/1| 中国疫苗| 免费| [参见1](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1881263.shtml), [参见2](http://www.chinaarabcf.org/chn/zagx/sjfc/t1881497.htm)|
-| 塞内加尔| 2021/6| -| -| [参见](https://mp.weixin.qq.com/s/68_N84gZ0M2EKTXQzDZNBw)|
+| 塞内加尔| 2021/6/15| 中国疫苗(国药| -| [参见](https://mp.weixin.qq.com/s/68_N84gZ0M2EKTXQzDZNBw)|
 | 白俄罗斯| 2021/5/31| 中国疫苗(国药| 免费 | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1880274.shtml)|
 | 多米尼加| 2021/5/29| -| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1879899.shtml)|
 | 孟加拉国| 2021/5/29| 中国疫苗(国药| - | [参见](http://www.xinhuanet.com/world/2021-05/30/c_1127508500.htm)|
