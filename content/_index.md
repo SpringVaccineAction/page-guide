@@ -96,7 +96,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间 | 可选疫苗 | 费用 |备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 越南| -| 阿斯利康疫苗,中国疫苗| - | [参见](http://vn.china-embassy.org/chn/sgxw/t1885230.htm)|
+| 越南| -| 阿斯利康疫苗,中国疫苗| - | [参见](http://vn.china-embassy.org/chn/sgxw/t1885230.htm), [接种意向登记](https://vn.ckh-vaccines.com/)|
 | 菲律宾|-| 中国疫苗(科兴| - | [参见](https://baijiahao.baidu.com/s?id=1702776991177410040)|
 | 印度尼西亚| -| BioNTech疫苗,中国疫苗(科兴| - | [参见](https://baijiahao.baidu.com/s?id=1695913264910410205&wfr=spider&for=pc)|
 | 巴林| -| -| - | [参见](http://bh.china-embassy.org/chn/dssghd/t1860334.htm)|
