@@ -2,3 +2,4 @@
 
 * Latest News
 * FAQ
+* Subscribe
