@@ -15,8 +15,9 @@ type: docs
 
 <div class="table-responsive">
 
-| 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数据来源 |
+| 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 格鲁吉亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small> | 2021/6/25～26| - | - | [参见](http://www.hljswb.gov.cn/newsshow.php?id=3111), <small style="color: orange">主要为不持有格方居留证的中国公民组织集中接种。</small>|
 | 布基纳法索  | 2021/6/23 | 牛津-阿斯利康疫苗 | 免费| [参见](http://news.haiwainet.cn/n/2021/0619/c3541083-32134411.html?baike) |
 | 厄瓜多尔 | 2021/6/19 | 中国疫苗 | - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1885199.shtml)|
 | 刚果（布 | 2021/6/18 | 中国疫苗(国药| 免费| [参见](https://baijiahao.baidu.com/s?id=1702983855480967489)|
