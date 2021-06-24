@@ -23,7 +23,7 @@ type: docs
 | 刚果（布 | 2021/6/18 | 中国疫苗(国药| 免费| [参见](https://baijiahao.baidu.com/s?id=1702983855480967489)|
 | 几内亚比绍| 2021/6/17| -| -| [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1884900.shtml)|
 | 南苏丹| 2021/6/15～17 | 中国疫苗 | - | [参见](https://baijiahao.baidu.com/s?id=1702846448278684734&wfr=spider&for=pc)|
-| 毛里塔尼亚| 2021/6/15| 中国疫苗(国药 | - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1884402.shtml)|
+| 毛里塔尼亚| 2021/6/15～17| 中国疫苗(国药 | - | [参见](http://mr.chineseembassy.org/chn/lsyw/t1883387.htm)|
 | 卢旺达| 2021/6/15| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1884046.shtml)|
 | 东帝汶| 2021/6/14| 中国疫苗(科兴| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1883656.shtml)|
 | 马达加斯加| 2021/6/9| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1882666.shtml)|
