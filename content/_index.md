@@ -55,6 +55,7 @@ type: docs
 | 多哥| 2021/4/29| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1872663.shtml)|
 | 萨摩亚 | 2021/4/29| 中国疫苗(科兴| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1879275.shtml)|
 | 老挝| 2021/4/26| 中国疫苗(国药| - | [参见](http://www.lmcchina.org/2021-04/26/content_41543555.htm)|
+| 乌克兰| 2021/4/26| 中国疫苗(科兴| - | [参见](http://m.stdaily.com/guoji/xinwen/2021-04/28/content_1128362.shtml)|
 | 吉布提| 2021/4/23| 中国疫苗| - | [参见](https://mp.weixin.qq.com/s/TzkHjw9TZV7yMqsjnyNnhw)|
 | 玻利维亚| 2021/4/16| 中国疫苗| - | [参见](https://mp.weixin.qq.com/s/KHqdWa4pRjy1jtHlrQ39ng)|
 | 尼泊尔| 2021/4/15| 中国疫苗(国药| 免费 | [参见](http://www.gov.cn/xinwen/2021-04/16/content_5599909.htm)|
