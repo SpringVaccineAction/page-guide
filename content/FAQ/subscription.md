@@ -3,10 +3,14 @@ title: 订阅最新消息
 weight: 2
 ---
 
-## 网址二维码
-
-comming soon.
-
 ## 邮箱订阅
 
-comming soon.
+[![Subscription](/image/subscription.svg)](https://tinyletter.com/im623)
+
+或者
+
+<div style="width: 256px">
+
+![Subscription](/image/letter.svg)
+
+</div>
