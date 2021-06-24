@@ -40,7 +40,7 @@ type: docs
 | 乌兹别克斯坦| 2021/5/27| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1879159.shtml)|
 | 阿联酋| 2021/5/23| 中国疫苗(国药| 免费 | [参见](https://www.chinanews.com/gj/2021/05-24/9484121.shtml)|
 | 乌干达| 2021/5/22| 中国疫苗(国药| - | [参见](https://baijiahao.baidu.com/s?id=1700486343363275739&wfr=spider&for=pc)|
-| 泰国| 2021/5/20| 中国疫苗(科兴,(国药| - | [接种注意事项](http://www.chinaembassy.or.th/chn/sgxw/t1879278.htm), [参见](http://www.xinhuanet.com/world/2021-05/20/c_1127471498.htm)|
+| 泰国| 2021/5/20| 中国疫苗(科兴,国药| - | [接种注意事项](http://www.chinaembassy.or.th/chn/sgxw/t1879278.htm), [参见](http://www.xinhuanet.com/world/2021-05/20/c_1127471498.htm)|
 | 匈牙利| 2021/5/19| 中国疫苗(科兴| - | [参见](https://mp.weixin.qq.com/s/WcInJ9HykT4_gERMTFdc4g)|
 | 博茨瓦纳| 2021/5/19| 中国疫苗| 免费 | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1877304.shtml)|
 | 亚美尼亚| 2021/5/18| 中国疫苗| 免费 | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1876909.shtml)|
