@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-06-26 [通讯：“春苗行动”为在科威特中国公民撑起“保护伞”](http://www.xinhuanet.com/world/2021-06/26/c_1127601326.htm)
 * 2021-06-25 [东帝汶开国总统夏纳纳接种中国疫苗](https://www.imsilkroad.com/news/p/456886.html)
 * 2021-06-25 [超3000名中国公民在乌干达完成两剂次中国新冠疫苗接种](http://m.news.cctv.com/2021/06/25/ARTIy9WquQmeqTwcVrod8l2D210625.shtml)
 * 2021-06-25 [“春苗行动”在菲律宾正式启动](https://www.fmprc.gov.cn/ce/ceph/chn/sgdt/t1886889.htm)
