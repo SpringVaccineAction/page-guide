@@ -19,6 +19,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 巴布亚新几内亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(国药| - | [参见](http://pg.china-embassy.org/chn/xwdt/t1886419.htm)|
 | 泰国(北部地区 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(科兴| - | [接种注意事项](http://www.chinaembassy.or.th/chn/sgxw/t1879278.htm), [预约的通知](http://www.chinaembassy.or.th/chn/gdxw/t1886924.htm)|
 | 菲律宾 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/25| 中国疫苗(科兴| - | [参见](https://www.fmprc.gov.cn/ce/ceph/chn/sgdt/t1886889.htm)|
 | 格鲁吉亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small> | 2021/6/25～26| - | - | [参见](http://www.hljswb.gov.cn/newsshow.php?id=3111), <small style="color: orange">主要为不持有格方居留证的中国公民组织集中接种。</small>|
