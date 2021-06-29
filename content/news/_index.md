@@ -10,6 +10,8 @@ weight: 2
 
 # Latest News
 
+* 2021-06-28 [中国驻坦桑尼亚大使馆提醒在坦中国公民注意加强疫情防护](http://wb.beijing.gov.cn/home/wswm/lsbh/jwaqtx/202106/t20210628_2423694.html)
+* 2021-06-28 [中国驻孟加拉国大使馆提醒：孟加拉国政府宣布实施7天全国范围内封城限行](http://wb.beijing.gov.cn/home/wswm/lsbh/jwaqtx/202106/t20210628_2423690.html)
 * 2021-06-28 [“春苗行动”在巴布亚新几内亚正式启动](https://www.thepaper.cn/newsDetail_forward_13342551)
 * 2021-06-26 [通讯：“春苗行动”为在科威特中国公民撑起“保护伞”](http://www.xinhuanet.com/world/2021-06/26/c_1127601326.htm)
 * 2021-06-25 [东帝汶开国总统夏纳纳接种中国疫苗](https://www.imsilkroad.com/news/p/456886.html)
