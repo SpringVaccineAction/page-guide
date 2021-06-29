@@ -22,7 +22,7 @@ type: docs
 | 巴布亚新几内亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(国药| - | [参见](http://pg.china-embassy.org/chn/xwdt/t1886419.htm)|
 | 泰国(北部地区 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(科兴| - | [接种注意事项](http://www.chinaembassy.or.th/chn/sgxw/t1879278.htm), [预约的通知](http://www.chinaembassy.or.th/chn/gdxw/t1886924.htm)|
 | 菲律宾 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/25| 中国疫苗(科兴| - | [参见](https://www.fmprc.gov.cn/ce/ceph/chn/sgdt/t1886889.htm)|
-| 格鲁吉亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small> | 2021/6/25～26| - | - | [参见](http://www.hljswb.gov.cn/newsshow.php?id=3111), <small style="color: orange">主要为不持有格方居留证的中国公民组织集中接种。</small>|
+| 格鲁吉亚 | 2021/6/25～26| - | - | [参见](http://www.hljswb.gov.cn/newsshow.php?id=3111), <small style="color: orange">主要为不持有格方居留证的中国公民组织集中接种。</small>|
 | 布基纳法索  | 2021/6/23 | 牛津-阿斯利康疫苗 | 免费| [参见](http://news.haiwainet.cn/n/2021/0619/c3541083-32134411.html?baike) |
 | 厄瓜多尔 | 2021/6/19 | 中国疫苗 | - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1885199.shtml)|
 | 刚果(布 | 2021/6/18 | 中国疫苗(国药| 免费| [参见](https://baijiahao.baidu.com/s?id=1702983855480967489)|
