@@ -19,6 +19,9 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 马来西亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| 中国疫苗(科兴| 免费| <small style="color: orange">[关于“在马中国公民新冠疫苗接种在线登记系统”的通知](http://my.china-embassy.org/chn/zytz/t1887873.htm)</small>|
+| 塔吉克斯坦 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| -| 免费 | [参见](http://m.news.cctv.com/2021/06/30/ARTINnSGzR2SwEZNGkj5tKR0210630.shtml)|
+| 印度尼西亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(国药| 付费 | <small style="color: orange">[关于在印尼中国公民接种新冠疫苗的通知](http://id.china-embassy.org/chn/sgsd/t1887441.htm)</small>|
 | 巴布亚新几内亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(国药| - | [参见](http://pg.china-embassy.org/chn/xwdt/t1886419.htm)|
 | 泰国(北部地区 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(科兴| - | [接种注意事项](http://www.chinaembassy.or.th/chn/sgxw/t1879278.htm), [预约的通知](http://www.chinaembassy.or.th/chn/gdxw/t1886924.htm)|
 | 菲律宾 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/25| 中国疫苗(科兴| - | [参见](https://www.fmprc.gov.cn/ce/ceph/chn/sgdt/t1886889.htm)|
@@ -100,11 +103,8 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间 | 可选疫苗 | 费用 |备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 马来西亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 近期| 中国疫苗(科兴| -| [参见](http://my.china-embassy.org/chn/zytz/t1886529.htm), <small style="color: orange">需重点关注驻地大使馆通知，近期开放登记并施打</small>|
 | 越南| 近期| 阿斯利康疫苗,中国疫苗| - | [参见](http://vn.china-embassy.org/chn/sgxw/t1885230.htm), [接种意向登记](https://vn.ckh-vaccines.com/)|
-| 印度尼西亚| 近期| BioNTech疫苗,中国疫苗(科兴| - | [参见](https://baijiahao.baidu.com/s?id=1695913264910410205&wfr=spider&for=pc)|
 | 巴林| 近期| -| - | [参见](http://bh.china-embassy.org/chn/dssghd/t1860334.htm)|
-| 塔吉克斯坦| 近期| -| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1885764.shtml)|
 
 <div>
 
