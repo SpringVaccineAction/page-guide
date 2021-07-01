@@ -103,7 +103,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间 | 可选疫苗 | 费用 |备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 越南| 近期| 阿斯利康疫苗,中国疫苗| - | [参见](http://vn.china-embassy.org/chn/sgxw/t1885230.htm), [接种意向登记](https://vn.ckh-vaccines.com/)|
+| 越南| 近期| 中国疫苗(国药| - | [参见](http://vn.china-embassy.org/chn/sgxw/t1885230.htm), [接种意向登记](https://vn.ckh-vaccines.com/)|
 | 巴林| 近期| -| - | [参见](http://bh.china-embassy.org/chn/dssghd/t1860334.htm)|
 
 <div>
