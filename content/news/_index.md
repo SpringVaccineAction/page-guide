@@ -10,7 +10,7 @@ weight: 2
 
 # Latest News
 
-* 2021/07/02 [驻柬埔寨使馆看望接种中国新冠疫苗的百岁老人](http://kh.china-embassy.org/chn/dssghd/t1889213.htm)
+* 2021-07-02 [驻柬埔寨使馆看望接种中国新冠疫苗的百岁老人](http://kh.china-embassy.org/chn/dssghd/t1889213.htm)
 * 2021-06-28 [中国驻坦桑尼亚大使馆提醒在坦中国公民注意加强疫情防护](http://wb.beijing.gov.cn/home/wswm/lsbh/jwaqtx/202106/t20210628_2423694.html)
 * 2021-06-28 [中国驻孟加拉国大使馆提醒：孟加拉国政府宣布实施7天全国范围内封城限行](http://wb.beijing.gov.cn/home/wswm/lsbh/jwaqtx/202106/t20210628_2423690.html)
 * 2021-06-28 [“春苗行动”在巴布亚新几内亚正式启动](https://www.thepaper.cn/newsDetail_forward_13342551)
