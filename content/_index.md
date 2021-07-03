@@ -89,7 +89,7 @@ type: docs
 | 韩国 [^1]| 2021/2| -| -| [参见](http://fao.hlj.gov.cn/3g/newsshow.php?cid=5&id=2699&ivk_sa=1024320u)|
 | 阿根廷 [^1]| 2021/6/2| -| - | [参见](http://ar.chineseembassy.org/chn/lqfw/t1880926.htm)|
 | 法国 [^1]| 2021/5| -| - | [参见](http://www.oushinet.com/static/content/qj/qjnews/2021-03-08/818511248521175040.html)|
-| 新加坡 [^1]| 2021/3/12| 辉瑞,中国疫苗(科兴| -| [参见](http://www.chinaembassy.org.sg/chn/lsfwdt/t1860548.htm)|
+| 新加坡 [^1]| 2021/3/12| 辉瑞,中国疫苗(科兴| 付费| [参见](http://www.chinaembassy.org.sg/chn/lsfwdt/t1860548.htm)|
 | 冰岛 [^1]| 2020/12/28| -| -| [参见](http://is.china-embassy.org/chn/lsfw/fwxx/t1859919.htm)|
 | 意大利 [^1]| 2020/12/27| -| -| [参见](https://www.fmprc.gov.cn/ce/ceit/chn/lsyw/t1861305.htm)|
 | 德国 [^1]| 2020/12/27| -| - | [参见](http://de.china-embassy.org/chn/gdxw/t1860375.htm)|
