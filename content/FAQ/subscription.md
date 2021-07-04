@@ -1,6 +1,6 @@
 ---
 title: 订阅最新消息
-weight: 2
+weight: 10
 ---
 
 ## 邮箱订阅
