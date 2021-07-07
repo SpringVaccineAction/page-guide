@@ -19,6 +19,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 越南 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/7| 中国疫苗(国药| -| <small>[关于在越实施“春苗行动”初步安排的通知](http://vn.china-embassy.org/chn/lsyw/t1890256.htm)</small>|
 | 毛里塔尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/12~14| 中国疫苗(国药| -| <small>[关于毛里塔尼亚“春苗行动”第二阶段的通知](http://mr.china-embassy.org/chn/sgzyhd/t1889400.htm)</small>|
 | 马来西亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| 中国疫苗(科兴| 免费| <small style="color: orange">[关于“在马中国公民新冠疫苗接种在线登记系统”的通知](http://my.china-embassy.org/chn/zytz/t1887873.htm)</small>, <small>[:heart:特别提醒](https://www.fmprc.gov.cn/ce/cemy/chn/zytz/t1889631.htm)</small>|
 | 塔吉克斯坦 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| -| 免费 | [参见](http://m.news.cctv.com/2021/06/30/ARTINnSGzR2SwEZNGkj5tKR0210630.shtml)|
@@ -104,7 +105,6 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间 | 可选疫苗 | 费用 |备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 越南| 近期| 中国疫苗(国药| - | [参见](http://vn.china-embassy.org/chn/sgxw/t1885230.htm), [接种意向登记](https://vn.ckh-vaccines.com/)|
 | 巴林| 近期| -| - | [参见](http://bh.china-embassy.org/chn/dssghd/t1860334.htm)|
 
 <div>
