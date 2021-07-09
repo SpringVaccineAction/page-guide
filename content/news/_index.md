@@ -10,10 +10,12 @@ weight: 2
 
 # Latest News
 
+* 2021-07-08 [“春苗行动”在博茨瓦纳圆满收官](https://www.fmprc.gov.cn/ce/cebw/chn/gdxw/t1890674.htm)
 * 2021-07-07 [再次提醒在印尼中国公民高度防范新冠疫情](http://id.chineseembassy.org/chn/gdxw/t1890214.htm)
 * 2021-07-07[关于继续开放“春苗行动”登记系统及相关注意事项的通知](http://penang.china-consulate.org/chn/gdxw/t1890257.htm)
 * 2021-07-06[驻菲律宾使馆提醒中国公民警惕虚假“春苗行动”预约网站](http://www.chinanews.com/hr/2021/07-06/9513581.shtml)
 * 2021-07-06 [关于“春苗行动”曼谷及东部地区集中预约接种工作即将结束的通知](https://www.fmprc.gov.cn/ce/ceth/chn/gdxw/t1889972.htm)
+* 2021-07-05 [“春苗行动”在菲律宾宿务正式启动](http://cebu.chineseconsulate.org/chn/xwdt/t1889736.htm)
 * 2021-07-04 [特别提醒：请在“春苗行动”系统登记疫苗接种人员务必同时在马方MySejahtera进行预约](https://www.fmprc.gov.cn/ce/cemy/chn/zytz/t1889631.htm)
 * 2021-07-02 [驻柬埔寨使馆看望接种中国新冠疫苗的百岁老人](http://kh.china-embassy.org/chn/dssghd/t1889213.htm)
 * 2021-06-28 [中国驻坦桑尼亚大使馆提醒在坦中国公民注意加强疫情防护](http://wb.beijing.gov.cn/home/wswm/lsbh/jwaqtx/202106/t20210628_2423694.html)
