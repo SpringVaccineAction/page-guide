@@ -19,8 +19,8 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 越南 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/7| 中国疫苗(国药| -| <small>[关于在越实施“春苗行动”初步安排的通知](http://vn.china-embassy.org/chn/lsyw/t1890256.htm)</small>|
 | 毛里塔尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/12~14| 中国疫苗(国药| -| <small>[关于毛里塔尼亚“春苗行动”第二阶段的通知](http://mr.china-embassy.org/chn/sgzyhd/t1889400.htm)</small>|
+| 越南 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/7| 中国疫苗(国药| -| <small>[关于在越实施“春苗行动”初步安排的通知](http://vn.china-embassy.org/chn/lsyw/t1890256.htm)</small>|
 | 佛得角 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/2| 中国疫苗| -| [参见](http://cv.chineseembassy.org/chn/sghd/t1890812.htm)|
 | 马来西亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| 中国疫苗(科兴| 免费| <small style="color: orange">[关于“在马中国公民新冠疫苗接种在线登记系统”的通知](http://my.china-embassy.org/chn/zytz/t1887873.htm)</small>, <small>[:heart:特别提醒](https://www.fmprc.gov.cn/ce/cemy/chn/zytz/t1889631.htm)</small>|
 | 塔吉克斯坦 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| -| 免费 | [参见](http://m.news.cctv.com/2021/06/30/ARTINnSGzR2SwEZNGkj5tKR0210630.shtml)|
