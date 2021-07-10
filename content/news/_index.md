@@ -9,7 +9,8 @@ weight: 2
 ---
 
 # Latest News
-
+* 2021-07-10 [中国驻德使馆解答防疫及其它相关问题](http://www.chinanews.com/hr/2021/07-10/9516705.shtml)
+* 2021-07-08 [驻墨西哥使领馆提醒旅墨中国公民严防第三波疫情，密切关注墨新冠疫苗接种计划最新进展和安排](http://mx.china-embassy.org/chn/sgxx/t1890856.htm)
 * 2021-07-08 [“春苗行动”在博茨瓦纳圆满收官](https://www.fmprc.gov.cn/ce/cebw/chn/gdxw/t1890674.htm)
 * 2021-07-07 [再次提醒在印尼中国公民高度防范新冠疫情](http://id.chineseembassy.org/chn/gdxw/t1890214.htm)
 * 2021-07-07[关于继续开放“春苗行动”登记系统及相关注意事项的通知](http://penang.china-consulate.org/chn/gdxw/t1890257.htm)

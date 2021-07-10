@@ -19,6 +19,8 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 厄瓜多尔 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/18| 中国疫苗| -| <small>[“春苗行动”在厄瓜多尔进行时——关于开展第二剂疫苗接种的通知](http://ec.china-embassy.org/chn/sgxw/t1891202.htm)</small>|
+| 格鲁吉亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/12~13,15~16| -| -| <small>[关于“春苗行动”第二剂集中接种的通知](http://ge.chineseembassy.org/chn/xwdt/t1890751.htm)</small>|
 | 毛里塔尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/12~14| 中国疫苗(国药| -| <small>[关于毛里塔尼亚“春苗行动”第二阶段的通知](http://mr.china-embassy.org/chn/sgzyhd/t1889400.htm)</small>|
 | 越南 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/7| 中国疫苗(国药| -| <small>[关于在越实施“春苗行动”初步安排的通知](http://vn.china-embassy.org/chn/lsyw/t1890256.htm)</small>|
 | 佛得角 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/2| 中国疫苗| -| [参见](http://cv.chineseembassy.org/chn/sghd/t1890812.htm)|
