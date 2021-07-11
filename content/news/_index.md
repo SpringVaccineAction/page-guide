@@ -9,12 +9,16 @@ weight: 2
 ---
 
 # Latest News
+
+* 2021-07-11 [驻缅甸使馆实施“春苗行动”](http://mm.china-embassy.org/chn/sgxw/t1891276.htm)
 * 2021-07-10 [中国驻德使馆解答防疫及其它相关问题](http://www.chinanews.com/hr/2021/07-10/9516705.shtml)
+* 2021-07-09 [关于防疫及其它相关问题的答疑 - 我驻德意志联邦共和国大使馆](http://de.china-embassy.org/chn/sgyw/t1891091.htm)
 * 2021-07-08 [驻墨西哥使领馆提醒旅墨中国公民严防第三波疫情，密切关注墨新冠疫苗接种计划最新进展和安排](http://mx.china-embassy.org/chn/sgxx/t1890856.htm)
 * 2021-07-08 [“春苗行动”在博茨瓦纳圆满收官](https://www.fmprc.gov.cn/ce/cebw/chn/gdxw/t1890674.htm)
 * 2021-07-07 [再次提醒在印尼中国公民高度防范新冠疫情](http://id.chineseembassy.org/chn/gdxw/t1890214.htm)
-* 2021-07-07[关于继续开放“春苗行动”登记系统及相关注意事项的通知](http://penang.china-consulate.org/chn/gdxw/t1890257.htm)
-* 2021-07-06[驻菲律宾使馆提醒中国公民警惕虚假“春苗行动”预约网站](http://www.chinanews.com/hr/2021/07-06/9513581.shtml)
+* 2021-07-07 [关于继续开放“春苗行动”登记系统及相关注意事项的通知](http://penang.china-consulate.org/chn/gdxw/t1890257.htm)
+* 2021-07-06 [中国驻德国使馆发言人就《明镜》周刊炒作新冠疫情溯源表明立场](http://de.china-embassy.org/chn/sgyw/t1890066.htm)
+* 2021-07-06 [驻菲律宾使馆提醒中国公民警惕虚假“春苗行动”预约网站](http://www.chinanews.com/hr/2021/07-06/9513581.shtml)
 * 2021-07-06 [关于“春苗行动”曼谷及东部地区集中预约接种工作即将结束的通知](https://www.fmprc.gov.cn/ce/ceth/chn/gdxw/t1889972.htm)
 * 2021-07-05 [“春苗行动”在菲律宾宿务正式启动](http://cebu.chineseconsulate.org/chn/xwdt/t1889736.htm)
 * 2021-07-04 [特别提醒：请在“春苗行动”系统登记疫苗接种人员务必同时在马方MySejahtera进行预约](https://www.fmprc.gov.cn/ce/cemy/chn/zytz/t1889631.htm)
