@@ -8,6 +8,6 @@ weight: 4
 > 版权、许可和参考说明： © WHO 2020，保留所有权利。
 
 * [按日期向世卫组织报告的每日病例和死亡人数](https://covid19.who.int/WHO-COVID-19-global-data.csv)
-* [最新报告的病例和死亡人数以及传播分类](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
-* [疫苗接种数据](https://covid19.who.int/who-data/vaccination-data.csv)
+* [世界各国或地区最新报告的病例和死亡人数以及传播分类](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
+* [世界各国或地区疫苗接种数据](https://covid19.who.int/who-data/vaccination-data.csv)
 * [疫苗接种元数据](https://covid19.who.int/who-data/vaccination-metadata.csv)
