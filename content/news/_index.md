@@ -10,7 +10,7 @@ weight: 2
 
 # Latest News
 
-* 2021-07-12 [关于实施“春苗行动”有关事项的通知（第二期）](http://vn.china-embassy.org/chn/lsyw/t1891357.htm)
+* 2021-07-12 [关于越南实施“春苗行动”有关事项的通知（第二期）](http://vn.china-embassy.org/chn/lsyw/t1891357.htm)
 * 2021-07-11 [驻缅甸使馆实施“春苗行动”阶段性进展](http://mm.china-embassy.org/chn/sgxw/t1891276.htm)
 * 2021-07-10 [中国驻德使馆解答防疫及其它相关问题](http://www.chinanews.com/hr/2021/07-10/9516705.shtml)
 * 2021-07-09 [关于防疫及其它相关问题的答疑 - 我驻德意志联邦共和国大使馆](http://de.china-embassy.org/chn/sgyw/t1891091.htm)
