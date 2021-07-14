@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-07-13 [白俄罗斯外交部发声反对将新冠病毒溯源问题政治化](http://by.china-embassy.org/chn/sssgxwdt/t1891751.htm)
 * 2021-07-12 [关于越南实施“春苗行动”有关事项的通知（第二期）](http://vn.china-embassy.org/chn/lsyw/t1891357.htm)
 * 2021-07-11 [驻缅甸使馆实施“春苗行动”阶段性进展](http://mm.china-embassy.org/chn/sgxw/t1891276.htm)
 * 2021-07-10 [中国驻德使馆解答防疫及其它相关问题](http://www.chinanews.com/hr/2021/07-10/9516705.shtml)
@@ -24,6 +25,7 @@ weight: 2
 * 2021-07-05 [“春苗行动”在菲律宾宿务正式启动](http://cebu.chineseconsulate.org/chn/xwdt/t1889736.htm)
 * 2021-07-04 [特别提醒：请在“春苗行动”系统登记疫苗接种人员务必同时在马方MySejahtera进行预约](https://www.fmprc.gov.cn/ce/cemy/chn/zytz/t1889631.htm)
 * 2021-07-02 [驻柬埔寨使馆看望接种中国新冠疫苗的百岁老人](http://kh.china-embassy.org/chn/dssghd/t1889213.htm)
+* 2021-06-29 [关于再次提醒“春苗行动”在白俄罗斯接种第二针疫苗的通知](http://by.china-embassy.org/chn/zggmlsfw/t1887985.htm)
 * 2021-06-28 [中国驻坦桑尼亚大使馆提醒在坦中国公民注意加强疫情防护](http://wb.beijing.gov.cn/home/wswm/lsbh/jwaqtx/202106/t20210628_2423694.html)
 * 2021-06-28 [中国驻孟加拉国大使馆提醒：孟加拉国政府宣布实施7天全国范围内封城限行](http://wb.beijing.gov.cn/home/wswm/lsbh/jwaqtx/202106/t20210628_2423690.html)
 * 2021-06-28 [“春苗行动”在巴布亚新几内亚正式启动](https://www.thepaper.cn/newsDetail_forward_13342551)
