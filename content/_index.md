@@ -51,6 +51,7 @@ type: docs
 | 多米尼加| 2021/5/29| -| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1879899.shtml)|
 | 孟加拉国| 2021/5/29| 中国疫苗(国药| - | [参见](http://www.xinhuanet.com/world/2021-05/30/c_1127508500.htm)|
 | 特立尼达和多巴哥| 2021/5/28~30| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1881216.shtml)|
+| 摩洛哥| 2021/5/28| 中国疫苗(国药| 免费 | [参见](http://ma.china-embassy.org/chn/lsfw/lstx/t1878759.htm)|
 | 科威特| 2021/5/28~29| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1883722.shtml)|
 | 所罗门群岛| 2021/5/26~28| 中国疫苗(国药| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1879627.shtml)|
 | 乌兹别克斯坦| 2021/5/27| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1879159.shtml)|

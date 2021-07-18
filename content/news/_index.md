@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-07-16 [关于参加“春苗行动”在摩中国公民领取疫苗接种证书有关安排的通知](http://ma.china-embassy.org/chn/lsfw/lstx/t1892460.htm)
 * 2021-07-14 [巴新政府正式启动为当地民众接种中国疫苗](http://www.xinhuanet.com/world/2021-07/14/c_1127652345.htm)
 * 2021-07-13 [白俄罗斯外交部发声反对将新冠病毒溯源问题政治化](http://by.china-embassy.org/chn/sssgxwdt/t1891751.htm)
 * 2021-07-12 [关于越南实施“春苗行动”有关事项的通知（第二期）](http://vn.china-embassy.org/chn/lsyw/t1891357.htm)
