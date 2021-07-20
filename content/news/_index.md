@@ -11,6 +11,7 @@ weight: 2
 # Latest News
 
 * 2021-07-20 [中国驻缅甸大使陈海：“春苗行动”为在缅中国同胞送来“及时雨、雪中炭”](http://mm.china-embassy.org/chn/xwdt/t1893538.htm)
+* 2021-07-19 [“春苗行动”在科特迪瓦正式启动](http://www.xinhuanet.com/world/2021-07/19/c_1127671695.htm)
 * 2021-07-19 [中国驻新加坡使馆提醒在新中国公民加强疫情防范](http://www.chinaembassy.org.sg/chn/gdxw/t1893243.htm)
 * 2021-07-19 [温馨提醒：大规模“春苗行动”已在马正式落地](http://my.china-embassy.org/chn/zytz/t1893285.htm)
 * 2021-07-18 [王毅：下阶段将致力构建中国－中亚卫生健康共同体](https://www.chinanews.com/gn/2021/07-18/9522635.shtml)
