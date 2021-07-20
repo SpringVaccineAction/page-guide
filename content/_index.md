@@ -19,6 +19,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 科特迪瓦 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/07/19~24| 中国疫苗(国药| -| <small>[关于在科特迪瓦启动“春苗行动”的通知](http://ci.chineseembassy.org/chn/zxyw/t1892491.htm)</small>|
 | 厄瓜多尔 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/18| 中国疫苗| -| <small>[“春苗行动”在厄瓜多尔进行时——关于开展第二剂疫苗接种的通知](http://ec.china-embassy.org/chn/sgxw/t1891202.htm)</small>|
 | 安提瓜和巴布达 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/15| 中国疫苗(国药| -| [参考](http://ag.china-embassy.org/chn/zgyabgx/zgyabjw/t1888178.htm) <small>[为海外同胞保驾护航 “春苗行动”在安巴持续推进](https://baijiahao.baidu.com/s?id=1705390650736347983)</small>|
 | 中非共和国 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/14| 中国疫苗(科兴| 免费| <small>[关于开展“春苗行动”的通知 - 中非共和国](http://cf.chineseembassy.org/chn/lsfw/t1892162.htm)</small>|
@@ -57,6 +58,7 @@ type: docs
 | 乌兹别克斯坦| 2021/5/27| 中国疫苗| - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1879159.shtml)|
 | 阿联酋| 2021/5/23| 中国疫苗(国药| 免费 | [参见](https://www.chinanews.com/gj/2021/05-24/9484121.shtml)|
 | 乌干达| 2021/5/22| 中国疫苗(国药| - | [参见](https://baijiahao.baidu.com/s?id=1700486343363275739&wfr=spider&for=pc)|
+| 缅甸 | 2021/5/20| 中国疫苗| 免费 | [驻缅甸使馆实施“春苗行动”](http://mm.china-embassy.org/chn/xwdt/t1891276.htm)|
 | 匈牙利| 2021/5/19| 中国疫苗(科兴| - | [参见](https://mp.weixin.qq.com/s/WcInJ9HykT4_gERMTFdc4g)|
 | 博茨瓦纳| 2021/5/19| 中国疫苗| 免费 | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1877304.shtml)|
 | 亚美尼亚| 2021/5/18| 中国疫苗| 免费 | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1876909.shtml)|
