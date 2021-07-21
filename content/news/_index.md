@@ -10,6 +10,8 @@ weight: 2
 
 # Latest News
 
+* 2021-07-21 [毛里塔尼亚“春苗行动”顺利结束](http://mr.china-embassy.org/chn/sgzyhd/t1893870.htm)
+* 2021-07-20 [请来自疫情高风险地区“春苗行动”预约者完成隔离后再接种疫苗的通知](http://th.chineseembassy.org/chn/sgxw/t1893567.htm)
 * 2021-07-20 [中国驻缅甸大使陈海：“春苗行动”为在缅中国同胞送来“及时雨、雪中炭”](http://mm.china-embassy.org/chn/xwdt/t1893538.htm)
 * 2021-07-19 [“春苗行动”在科特迪瓦正式启动](http://www.xinhuanet.com/world/2021-07/19/c_1127671695.htm)
 * 2021-07-19 [中国驻新加坡使馆提醒在新中国公民加强疫情防范](http://www.chinaembassy.org.sg/chn/gdxw/t1893243.htm)
