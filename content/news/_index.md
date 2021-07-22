@@ -10,6 +10,8 @@ weight: 2
 
 # Latest News
 
+* 2021-07-21 [中国驻菲使馆发布已接种疫苗赴华人员申请健康码要求](http://www.chinanews.com/gj/2021/07-21/9525430.shtml)
+* 2021-07-21 [关于在越南巴地头顿省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1894107.shtml)
 * 2021-07-21 [毛里塔尼亚“春苗行动”顺利结束](http://mr.china-embassy.org/chn/sgzyhd/t1893870.htm)
 * 2021-07-20 [请来自疫情高风险地区“春苗行动”预约者完成隔离后再接种疫苗的通知 - 驻泰使馆](http://th.chineseembassy.org/chn/sgxw/t1893567.htm)
 * 2021-07-20 [中国驻缅甸大使陈海：“春苗行动”为在缅中国同胞送来“及时雨、雪中炭”](http://mm.china-embassy.org/chn/xwdt/t1893538.htm)
