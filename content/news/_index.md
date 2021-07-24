@@ -10,7 +10,10 @@ weight: 2
 
 # Latest News
 
+* 2021-07-24 [截至7月23日24时，中国国内新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202107/8cce0574c154434bab429d2c90eac5f4.shtml)
+* 2021-07-23 [截至2021年7月22日，中国新冠病毒疫苗接种情况](http://www.nhc.gov.cn/xcs/yqjzqk/202107/1c8671825659484d9110efb9e7573230.shtml)
 * 2021-07-22 [关于越南的海阳、兴安、太平三省疫苗接种安排的紧急通知（第六期）](http://vn.china-embassy.org/chn/lsyw/t1894333.htm)
+* 2021-07-21 [驻毛里塔尼亚大使李柏军赴接种点检查毛“春苗行动”收尾工作](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1893871.shtml)
 * 2021-07-21 [中国驻菲使馆发布已接种疫苗赴华人员申请健康码要求](http://www.chinanews.com/gj/2021/07-21/9525430.shtml)
 * 2021-07-21 [关于在越南巴地头顿省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1894107.shtml)
 * 2021-07-21 [毛里塔尼亚“春苗行动”顺利结束](http://mr.china-embassy.org/chn/sgzyhd/t1893870.htm)

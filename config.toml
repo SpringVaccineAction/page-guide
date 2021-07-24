@@ -59,6 +59,16 @@ weight = 2
 [menu]
 # [[menu.before]]
 [[menu.after]]
-name = "Github"
+name = "本站源码"
 url = "https://github.com/SpringVaccineAction"
+weight = 30
+
+[[menu.before]]
+name = "中国国家卫健委防控工作统计"
+url = "http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml"
+weight = 20
+
+[[menu.before]]
+name = "中国外交部驻外机构"
+url = "https://www.fmprc.gov.cn/web/zwjg_674741/zwsg_674743/yz_674745/"
 weight = 20
