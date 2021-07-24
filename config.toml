@@ -64,7 +64,7 @@ url = "https://github.com/SpringVaccineAction"
 weight = 30
 
 [[menu.before]]
-name = "中国国家卫健委防控工作统计"
+name = "中国国家卫健委防控统计"
 url = "http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml"
 weight = 20
 
