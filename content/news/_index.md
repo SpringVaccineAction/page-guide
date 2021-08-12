@@ -10,6 +10,9 @@ weight: 2
 
 # Latest News
 
+* 2021-08-11 [中国一冶越南河内垃圾发电项目开展“春苗行动”](http://finance.china.com.cn/qy/qyjj/20210811/5628430.shtml)
+* 2021-08-08 [关于在越南西宁省启动“春苗行动”的紧急通知](http://hcmc.chineseconsulate.org/chn/zytztg/t1898145.shtml)
+* 2021-08-06 [关于在越南隆安省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/zytztg/t1897915.shtml)
 * 2021-07-24 [关于在新加坡乘坐7月27日及此后赴华航班旅客注意行前检测政策调整的提醒](http://www.chinaembassy.org.sg/chn/lsfwdt/t1894780.htm)
 * 2021-07-24 [截至7月23日24时，中国国内新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202107/8cce0574c154434bab429d2c90eac5f4.shtml)
 * 2021-07-23 [截至2021年7月22日，中国新冠病毒疫苗接种情况](http://www.nhc.gov.cn/xcs/yqjzqk/202107/1c8671825659484d9110efb9e7573230.shtml)

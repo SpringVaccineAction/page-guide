@@ -19,6 +19,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 柬埔寨 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/06| 中国疫苗| -| <small>[关于实施在柬中国公民第二阶段“春苗行动”的通知](http://kh.china-embassy.org/chn/tzgg/t1897927.htm)</small>|
 | 刚果(金 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/07/21| -| -| <small>[关于在刚果（金）中国公民报名接种新冠疫苗的补充通知](http://cd.china-embassy.org/chn/lqhzjfw/t1894130.htm)</small>|
 | 科特迪瓦 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/07/19~24| 中国疫苗(国药| -| <small>[关于在科特迪瓦启动“春苗行动”的通知](http://ci.chineseembassy.org/chn/zxyw/t1892491.htm)</small>|
 | 厄瓜多尔 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/18| 中国疫苗| -| <small>[“春苗行动”在厄瓜多尔进行时——关于开展第二剂疫苗接种的通知](http://ec.china-embassy.org/chn/sgxw/t1891202.htm)</small>|
