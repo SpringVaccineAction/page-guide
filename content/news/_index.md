@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-08-17 [关于在越南芹苴市启动“春苗行动”的紧急通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1899916.shtml)
 * 2021-08-16 [中阿疫苗合作为中国公民接种提供便利](http://world.people.com.cn/n1/2021/0816/c1002-32195001.html)
 * 2021-08-13 [“春苗行动”在泰国东北正式实施](https://www.mfa.gov.cn/web/zwbd_673032/jghd_673046/t1899305.shtml)
 * 2021-08-11 [中国一冶越南河内垃圾发电项目开展“春苗行动”](http://finance.china.com.cn/qy/qyjj/20210811/5628430.shtml)
