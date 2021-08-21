@@ -19,23 +19,24 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 坦桑尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/20| -| -| <small>[“春苗行动”在坦桑尼亚启动](http://www.xinhuanet.com/2021-08/20/c_1127781363.htm)</small>|
 | 柬埔寨 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/06| 中国疫苗| -| <small>[关于实施在柬中国公民第二阶段“春苗行动”的通知](http://kh.china-embassy.org/chn/tzgg/t1897927.htm)</small>|
-| 刚果(金 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/07/21| -| -| <small>[关于在刚果（金）中国公民报名接种新冠疫苗的补充通知](http://cd.china-embassy.org/chn/lqhzjfw/t1894130.htm)</small>|
-| 科特迪瓦 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/07/19~24| 中国疫苗(国药| -| <small>[关于在科特迪瓦启动“春苗行动”的通知](http://ci.chineseembassy.org/chn/zxyw/t1892491.htm)</small>|
-| 厄瓜多尔 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/18| 中国疫苗| -| <small>[“春苗行动”在厄瓜多尔进行时——关于开展第二剂疫苗接种的通知](http://ec.china-embassy.org/chn/sgxw/t1891202.htm)</small>|
-| 安提瓜和巴布达 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/15| 中国疫苗(国药| -| [参考](http://ag.china-embassy.org/chn/zgyabgx/zgyabjw/t1888178.htm) <small>[为海外同胞保驾护航 “春苗行动”在安巴持续推进](https://baijiahao.baidu.com/s?id=1705390650736347983)</small>|
-| 中非共和国 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/14| 中国疫苗(科兴| 免费| <small>[关于开展“春苗行动”的通知 - 中非共和国](http://cf.chineseembassy.org/chn/lsfw/t1892162.htm)</small>|
-| 格鲁吉亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/12~13,15~16| -| -| <small>[关于“春苗行动”第二剂集中接种的通知](http://ge.chineseembassy.org/chn/xwdt/t1890751.htm)</small>|
-| 东帝汶 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/12| 中国疫苗(科兴| -| <small>[驻东帝汶大使肖建国在“春苗行动”暨科兴疫苗第二剂接种启动仪式](http://tl.chineseembassy.org/chn/sgdt/t1891617.htm)</small>|
-| 毛里塔尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/12~14| 中国疫苗(国药| -| <small>[关于毛里塔尼亚“春苗行动”第二阶段的通知](http://mr.china-embassy.org/chn/sgzyhd/t1889400.htm)</small>|
-| 越南 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/7| 中国疫苗(国药| -| <small>[关于在越实施“春苗行动”初步安排的通知](http://vn.china-embassy.org/chn/lsyw/t1890256.htm)</small>|
-| 佛得角 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/7/2| 中国疫苗| -| [参见](http://cv.chineseembassy.org/chn/sghd/t1890812.htm)|
-| 马来西亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| 中国疫苗(科兴| 免费| <small style="color: orange">[关于“在马中国公民新冠疫苗接种在线登记系统”的通知](http://my.china-embassy.org/chn/zytz/t1887873.htm)</small>, <small>[:heart:特别提醒](https://www.fmprc.gov.cn/ce/cemy/chn/zytz/t1889631.htm)</small>|
-| 塔吉克斯坦 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/29| -| 免费 | [参见](http://m.news.cctv.com/2021/06/30/ARTINnSGzR2SwEZNGkj5tKR0210630.shtml)|
-| 印度尼西亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(国药| 付费 | <small>[关于在印尼中国公民接种新冠疫苗的通知](http://id.china-embassy.org/chn/sgsd/t1887441.htm)</small>|
-| 巴布亚新几内亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(国药| - | [参见](http://pg.china-embassy.org/chn/xwdt/t1886419.htm)|
-| 泰国(北部地区 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/28| 中国疫苗(科兴| - | [接种注意事项](http://www.chinaembassy.or.th/chn/sgxw/t1879278.htm), [预约的通知](http://www.chinaembassy.or.th/chn/gdxw/t1886924.htm)|
-| 菲律宾 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/6/25| 中国疫苗(科兴| - | [参见](https://www.fmprc.gov.cn/ce/ceph/chn/sgdt/t1886889.htm)|
+| 刚果(金 | 2021/07/21| -| -| <small>[关于在刚果（金）中国公民报名接种新冠疫苗的补充通知](http://cd.china-embassy.org/chn/lqhzjfw/t1894130.htm)</small>|
+| 科特迪瓦 | 2021/07/19~24| 中国疫苗(国药| -| <small>[关于在科特迪瓦启动“春苗行动”的通知](http://ci.chineseembassy.org/chn/zxyw/t1892491.htm)</small>|
+| 厄瓜多尔 | 2021/7/18| 中国疫苗| -| <small>[“春苗行动”在厄瓜多尔进行时——关于开展第二剂疫苗接种的通知](http://ec.china-embassy.org/chn/sgxw/t1891202.htm)</small>|
+| 安提瓜和巴布达 | 2021/7/15| 中国疫苗(国药| -| [参考](http://ag.china-embassy.org/chn/zgyabgx/zgyabjw/t1888178.htm) <small>[为海外同胞保驾护航 “春苗行动”在安巴持续推进](https://baijiahao.baidu.com/s?id=1705390650736347983)</small>|
+| 中非共和国 | 2021/7/14| 中国疫苗(科兴| 免费| <small>[关于开展“春苗行动”的通知 - 中非共和国](http://cf.chineseembassy.org/chn/lsfw/t1892162.htm)</small>|
+| 格鲁吉亚 | 2021/7/12~13,15~16| -| -| <small>[关于“春苗行动”第二剂集中接种的通知](http://ge.chineseembassy.org/chn/xwdt/t1890751.htm)</small>|
+| 东帝汶 | 2021/7/12| 中国疫苗(科兴| -| <small>[驻东帝汶大使肖建国在“春苗行动”暨科兴疫苗第二剂接种启动仪式](http://tl.chineseembassy.org/chn/sgdt/t1891617.htm)</small>|
+| 毛里塔尼亚 | 2021/7/12~14| 中国疫苗(国药| -| <small>[关于毛里塔尼亚“春苗行动”第二阶段的通知](http://mr.china-embassy.org/chn/sgzyhd/t1889400.htm)</small>|
+| 越南 | 2021/7/7| 中国疫苗(国药| -| <small>[关于在越实施“春苗行动”初步安排的通知](http://vn.china-embassy.org/chn/lsyw/t1890256.htm)</small>|
+| 佛得角 | 2021/7/2| 中国疫苗| -| [参见](http://cv.chineseembassy.org/chn/sghd/t1890812.htm)|
+| 马来西亚 | 2021/6/29| 中国疫苗(科兴| 免费| <small style="color: orange">[关于“在马中国公民新冠疫苗接种在线登记系统”的通知](http://my.china-embassy.org/chn/zytz/t1887873.htm)</small>, <small>[:heart:特别提醒](https://www.fmprc.gov.cn/ce/cemy/chn/zytz/t1889631.htm)</small>|
+| 塔吉克斯坦 | 2021/6/29| -| 免费 | [参见](http://m.news.cctv.com/2021/06/30/ARTINnSGzR2SwEZNGkj5tKR0210630.shtml)|
+| 印度尼西亚 | 2021/6/28| 中国疫苗(国药| 付费 | <small>[关于在印尼中国公民接种新冠疫苗的通知](http://id.china-embassy.org/chn/sgsd/t1887441.htm)</small>|
+| 巴布亚新几内亚 | 2021/6/28| 中国疫苗(国药| - | [参见](http://pg.china-embassy.org/chn/xwdt/t1886419.htm)|
+| 泰国(北部地区 | 2021/6/28| 中国疫苗(科兴| - | [接种注意事项](http://www.chinaembassy.or.th/chn/sgxw/t1879278.htm), [预约的通知](http://www.chinaembassy.or.th/chn/gdxw/t1886924.htm)|
+| 菲律宾 | 2021/6/25| 中国疫苗(科兴| - | [参见](https://www.fmprc.gov.cn/ce/ceph/chn/sgdt/t1886889.htm)|
 | 格鲁吉亚 | 2021/6/25~26| - | - | [参见](http://www.hljswb.gov.cn/newsshow.php?id=3111), <small style="color: orange">主要为不持有格方居留证的中国公民组织集中接种。</small>|
 | 布基纳法索  | 2021/6/23 | 牛津-阿斯利康疫苗 | 免费| [参见](http://news.haiwainet.cn/n/2021/0619/c3541083-32134411.html?baike) |
 | 厄瓜多尔 | 2021/6/19 | 中国疫苗 | - | [参见](https://www.fmprc.gov.cn/web/wjdt_674879/zwbd_674895/t1885199.shtml)|
