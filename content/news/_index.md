@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-08-22 [关于在越南平阳省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1901068.shtml)
 * 2021-08-20 [“春苗行动”在坦桑尼亚启动](http://www.xinhuanet.com/2021-08/20/c_1127781363.htm)
 * 2021-08-20 [通知：马来西亚大规模“春苗行动”即将结束， 请有意愿接种疫苗的领区中国公民抓紧登记](http://penang.china-consulate.org/chn/zytz/t1900742.htm)
 * 2021-08-17 [关于在越南芹苴市启动“春苗行动”的紧急通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1899916.shtml)
