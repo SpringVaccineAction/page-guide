@@ -10,6 +10,8 @@ weight: 2
 
 # Latest News
 
+* 2021-08-24 [柬政府举行隆重仪式迎接中国军队无偿援助的新冠疫苗](http://kh.china-embassy.org/chn/dssghd/t1901380.htm)
+* 2021-08-24 [关于在越南胡志明市安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/zytztg/t1901401.shtml)
 * 2021-08-23 [关于开放泰国北部地区清迈接种点第三批次预约的通知](http://chiangmai.chineseconsulate.org/chn/gdxw/t1901235.htm)
 * 2021-08-22 [关于在越南平阳省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1901068.shtml)
 * 2021-08-20 [“春苗行动”在坦桑尼亚启动](http://www.xinhuanet.com/2021-08/20/c_1127781363.htm)
