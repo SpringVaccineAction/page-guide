@@ -20,7 +20,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间 | 可选疫苗 | 费用 |备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 巴林| 近期| -| - | [参见](http://bh.china-embassy.org/chn/dssghd/t1860334.htm)|
+| 暂无 | - | - | - | - |
 
 <div>
 
@@ -35,6 +35,7 @@ type: docs
 | 莱索托 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/21| 中国疫苗(国药| -| <small>[“春苗行动”在莱索托落地实施](https://www.fmprc.gov.cn/web/zwbd_673032/jghd_673046/t1901105.shtml)</small>|
 | 坦桑尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/20| -| -| <small>[“春苗行动”在坦桑尼亚启动](http://www.xinhuanet.com/2021-08/20/c_1127781363.htm)</small>|
 | 柬埔寨 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/06| 中国疫苗| -| <small>[关于实施在柬中国公民第二阶段“春苗行动”的通知](http://kh.china-embassy.org/chn/tzgg/t1897927.htm)</small>|
+| 巴林| 2021/07/28| 中国疫苗(国药| - | [关于为巴林境内持短期签证中国公民接种新冠疫苗的通知](http://bh.china-embassy.org/chn/zytz/t1895688.htm)|
 | 刚果(金 | 2021/07/21| -| -| <small>[关于在刚果（金）中国公民报名接种新冠疫苗的补充通知](http://cd.china-embassy.org/chn/lqhzjfw/t1894130.htm)</small>|
 | 科特迪瓦 | 2021/07/19~24| 中国疫苗(国药| -| <small>[关于在科特迪瓦启动“春苗行动”的通知](http://ci.chineseembassy.org/chn/zxyw/t1892491.htm)</small>|
 | 厄瓜多尔 | 2021/7/18| 中国疫苗| -| <small>[“春苗行动”在厄瓜多尔进行时——关于开展第二剂疫苗接种的通知](http://ec.china-embassy.org/chn/sgxw/t1891202.htm)</small>|
