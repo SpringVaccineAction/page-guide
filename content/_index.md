@@ -31,7 +31,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 古巴 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/21| 中国疫苗(国药| 免费| <small>[关于在古巴实施“春苗行动”报名和初步安排的通知(第一期)](http://cu.chineseembassy.org/chn/sgxx/t1900968.htm)</small>|
+| 古巴 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/21| 中国疫苗(国药| 付费| <small>[关于在古巴实施“春苗行动”报名和初步安排的通知(第一期)](http://cu.chineseembassy.org/chn/sgxx/t1900968.htm)</small>|
 | 莱索托 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/21| 中国疫苗(国药| -| <small>[“春苗行动”在莱索托落地实施](https://www.fmprc.gov.cn/web/zwbd_673032/jghd_673046/t1901105.shtml)</small>|
 | 坦桑尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/20| -| -| <small>[“春苗行动”在坦桑尼亚启动](http://www.xinhuanet.com/2021-08/20/c_1127781363.htm)</small>|
 | 柬埔寨 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/06| 中国疫苗| -| <small>[关于实施在柬中国公民第二阶段“春苗行动”的通知](http://kh.china-embassy.org/chn/tzgg/t1897927.htm)</small>|
