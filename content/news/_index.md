@@ -10,6 +10,9 @@ weight: 2
 
 # Latest News
 
+* 2021-08-27 [关于在越南隆安省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1902357.shtml)
+* 2021-08-27 [中国政府将向泰国提供新一批抗疫物资援助](http://www.chinaembassy.or.th/chn/sgxw/t1902344.htm)
+* 2021-08-26 [第二阶段“春苗行动”在柬成功推进](http://kh.china-embassy.org/chn/lsfws/lingshifuwu/t1902047.htm)
 * 2021-08-25 [关于越南清化省第二剂疫苗接种安排的通知（第二十期）](http://vn.china-embassy.org/chn/lsyw/t1901779.htm)
 * 2021-08-24 [柬政府举行隆重仪式迎接中国军队无偿援助的新冠疫苗](http://kh.china-embassy.org/chn/dssghd/t1901380.htm)
 * 2021-08-24 [关于在越南胡志明市安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/zytztg/t1901401.shtml)
