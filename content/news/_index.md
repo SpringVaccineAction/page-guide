@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-08-29 [关于调整自柬乘机赴华人员远端防控要求的通知](http://kh.china-embassy.org/chn/lsfws/lingshifuwu/t1902794.htm)
 * 2021-08-27 [关于在越南隆安省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1902357.shtml)
 * 2021-08-27 [中国政府将向泰国提供新一批抗疫物资援助](http://www.chinaembassy.or.th/chn/sgxw/t1902344.htm)
 * 2021-08-26 [第二阶段“春苗行动”在柬成功推进](http://kh.china-embassy.org/chn/lsfws/lingshifuwu/t1902047.htm)
