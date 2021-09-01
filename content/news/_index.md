@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-08-30 [驻几内亚比绍大使郭策出席援几比政府新冠病毒疫苗交接仪式](http://gw.mofcom.gov.cn/article/jmxw/202108/20210803193192.shtml)
 * 2021-08-29 [关于调整自柬乘机赴华人员远端防控要求的通知](http://kh.china-embassy.org/chn/lsfws/lingshifuwu/t1902794.htm)
 * 2021-08-27 [关于在越南隆安省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1902357.shtml)
 * 2021-08-27 [中国政府将向泰国提供新一批抗疫物资援助](http://www.chinaembassy.or.th/chn/sgxw/t1902344.htm)
