@@ -20,8 +20,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间 | 可选疫苗 | 费用 |备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 基里巴斯 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/09| 中国疫苗| -| <small>[中国对基里巴斯首批疫苗援助抵达并举办交接仪式
-](http://world.people.com.cn/n1/2021/0902/c1002-32216000.html)</small>|
+| 基里巴斯 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/09| 中国疫苗| -| <small>[中国对基里巴斯首批疫苗援助抵达并举办交接仪式](http://world.people.com.cn/n1/2021/0902/c1002-32216000.html)</small>|
 
 <div>
 
