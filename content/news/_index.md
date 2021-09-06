@@ -10,7 +10,7 @@ weight: 2
 
 # Latest News
 
-
+* 2021-09-04 [关于在越南庆和省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1904638.shtml)
 * 2021-09-03 [关于河内市第二剂疫苗接种安排的通知（第二十五期）](http://vn.china-embassy.org/chn/lsyw/t1904319.htm)
 * 2021-09-02 [关于在越南同塔省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1904103.shtml)
 * 2021-08-30 [驻几内亚比绍大使郭策出席援几比政府新冠病毒疫苗交接仪式](http://gw.mofcom.gov.cn/article/jmxw/202108/20210803193192.shtml)
