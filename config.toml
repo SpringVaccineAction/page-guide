@@ -59,7 +59,7 @@ weight = 2
 [menu]
 # [[menu.before]]
 [[menu.after]]
-name = "本站源码"
+name = "关于本站"
 url = "https://github.com/SpringVaccineAction"
 weight = 30
 
