@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-09-06 [“春苗行动”即将收尾，请在埃中国公民和侨胞尽快前往接种](http://eg.china-embassy.org/chn/lsfw/t1904911.htm)
 * 2021-09-04 [关于在越南庆和省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1904638.shtml)
 * 2021-09-03 [关于河内市第二剂疫苗接种安排的通知（第二十五期）](http://vn.china-embassy.org/chn/lsyw/t1904319.htm)
 * 2021-09-02 [关于在越南同塔省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1904103.shtml)
