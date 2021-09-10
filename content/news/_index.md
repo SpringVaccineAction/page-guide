@@ -10,12 +10,17 @@ weight: 2
 
 # Latest News
 
+* 2021-09-09 [关于“春苗行动”泰北地区清迈接种工作即将结束的通知](http://chiangmai.chineseconsulate.org/chn/xwdt/t1905742.htm)
+* 2021-09-09 [关于在越南永福省第二剂疫苗接种安排的通知（第二十九期）](http://vn.china-embassy.org/chn/lsyw/t1905838.htm)
+* 2021-09-09 [关于“春苗行动”泰北地区清迈接种工作即将结束的通知](http://www.chinaembassy.or.th/chn/sgxw/t1905736.htm)
 * 2021-09-07 [关于在越南茶荣省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1905277.shtml)
 * 2021-09-07 [关于在越南林同省启动“春苗行动”的紧急通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1905276.shtml)
 * 2021-09-06 [“春苗行动”即将收尾，请在埃中国公民和侨胞尽快前往接种](http://eg.china-embassy.org/chn/lsfw/t1904911.htm)
 * 2021-09-04 [关于在越南庆和省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1904638.shtml)
 * 2021-09-03 [关于河内市第二剂疫苗接种安排的通知（第二十五期）](http://vn.china-embassy.org/chn/lsyw/t1904319.htm)
 * 2021-09-02 [关于在越南同塔省启动“春苗行动”的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1904103.shtml)
+* 2021-09-02 [中国军队向埃及军队提供新冠疫苗](http://eg.china-embassy.org/chn/zagx/t1904114.htm)
+* 2021-09-02 [中泰双语《新型冠状病毒肺炎防护手册》正式发布](http://chiangmai.chineseconsulate.org/chn/xwdt/t1904094.htm)
 * 2021-08-30 [驻几内亚比绍大使郭策出席援几比政府新冠病毒疫苗交接仪式](http://gw.mofcom.gov.cn/article/jmxw/202108/20210803193192.shtml)
 * 2021-08-29 [关于调整自柬乘机赴华人员远端防控要求的通知](http://kh.china-embassy.org/chn/lsfws/lingshifuwu/t1902794.htm)
 * 2021-08-27 [关于在越南隆安省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1902357.shtml)
