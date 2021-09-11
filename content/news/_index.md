@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-09-10 [关于在越南平福省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1906208.shtml)
 * 2021-09-09 [关于“春苗行动”泰北地区清迈接种工作即将结束的通知](http://chiangmai.chineseconsulate.org/chn/xwdt/t1905742.htm)
 * 2021-09-09 [关于在越南永福省第二剂疫苗接种安排的通知（第二十九期）](http://vn.china-embassy.org/chn/lsyw/t1905838.htm)
 * 2021-09-09 [关于“春苗行动”泰北地区清迈接种工作即将结束的通知](http://www.chinaembassy.or.th/chn/sgxw/t1905736.htm)
