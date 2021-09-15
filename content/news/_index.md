@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-09-14 [关于在迪拜提供“春苗行动”二次报名机会的通知](http://dubai.chineseconsulate.org/chn/xwdt/t1906809.htm)
 * 2021-09-11 [关于在越南平阳省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1906386.shtml)
 * 2021-09-10 [关于在越南平福省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1906208.shtml)
 * 2021-09-09 [关于“春苗行动”泰北地区清迈接种工作即将结束的通知](http://chiangmai.chineseconsulate.org/chn/xwdt/t1905742.htm)
