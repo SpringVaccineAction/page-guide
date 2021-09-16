@@ -10,6 +10,8 @@ weight: 2
 
 # Latest News
 
+* 2021-09-16 [关于在越南多乐省启动“春苗行动”的紧急通知](http://hcmc.chineseconsulate.org/chn/zytztg/t1907354.shtml)
+* 2021-09-15 [国台办：已有15.6万余名在大陆台胞接种疫苗](http://www.gwytb.gov.cn/xwdt/xwfb/wyly/202109/t20210915_12378623.htm)
 * 2021-09-14 [关于在迪拜提供“春苗行动”二次报名机会的通知](http://dubai.chineseconsulate.org/chn/xwdt/t1906809.htm)
 * 2021-09-11 [关于在越南平阳省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/lsbh/t1906386.shtml)
 * 2021-09-10 [关于在越南平福省安排第二针疫苗注射的重要通知](http://hcmc.chineseconsulate.org/chn/lsfw/t1906208.shtml)
