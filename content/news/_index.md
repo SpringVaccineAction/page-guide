@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-09-17 [埃及“春苗行动”中国公民疫苗接种基本完成](https://www.fmprc.gov.cn/web/zwbd_673032/gzhd_673042/t1907657.shtml)
 * 2021-09-16 [关于在越南多乐省启动“春苗行动”的紧急通知](http://hcmc.chineseconsulate.org/chn/zytztg/t1907354.shtml)
 * 2021-09-15 [国台办：已有15.6万余名在大陆台胞接种疫苗](http://www.gwytb.gov.cn/xwdt/xwfb/wyly/202109/t20210915_12378623.htm)
 * 2021-09-14 [关于在迪拜提供“春苗行动”二次报名机会的通知](http://dubai.chineseconsulate.org/chn/xwdt/t1906809.htm)
