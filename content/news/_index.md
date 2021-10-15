@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-10-11 [关于开展第二阶段在越“春苗行动”疫苗接种意愿登记的通知](http://vn.china-embassy.org/chn/lsyw/t1913565.htm)
 * 2021-09-18 [关于开展“‘春苗行动’到普吉”为泰国南部地区中国公民接种疫苗的通知](http://www.chinaembassy.or.th/chn/sgxw/t1908090.htm)
 * 2021-09-17 [埃及“春苗行动”中国公民疫苗接种基本完成](https://www.fmprc.gov.cn/web/zwbd_673032/gzhd_673042/t1907657.shtml)
 * 2021-09-16 [关于在越南多乐省启动“春苗行动”的紧急通知](http://hcmc.chineseconsulate.org/chn/zytztg/t1907354.shtml)
