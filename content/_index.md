@@ -31,12 +31,14 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 泰国(普吉 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/09/23| -| -| <small>[关于开展“‘春苗行动’到普吉”为泰国南部地区中国公民接种疫苗的通知](http://www.chinaembassy.or.th/chn/sgxw/t1908090.htm)</small>|
-| 阿联酋(迪拜 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/09/14~11/13| 中国疫苗(国药| -| <small>[关于提供“春苗行动”二次报名机会的通知](http://dubai.chineseconsulate.org/chn/xwdt/t1906809.htm)</small>|
-| 古巴 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/21| 中国疫苗(国药| 付费| <small>[关于在古巴实施“春苗行动”报名和初步安排的通知(第一期)](http://cu.chineseembassy.org/chn/sgxx/t1900968.htm)</small>|
-| 莱索托 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/21| 中国疫苗(国药| -| <small>[“春苗行动”在莱索托落地实施](https://www.fmprc.gov.cn/web/zwbd_673032/jghd_673046/t1901105.shtml)</small>|
-| 坦桑尼亚 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/20| -| -| <small>[“春苗行动”在坦桑尼亚启动](http://www.xinhuanet.com/2021-08/20/c_1127781363.htm)</small>|
-| 柬埔寨 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/08/06| 中国疫苗| -| <small>[关于实施在柬中国公民第二阶段“春苗行动”的通知](http://kh.china-embassy.org/chn/tzgg/t1897927.htm)</small>|
+| 文莱 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/11/04| 中国疫苗(国药| -| <small>[关于组织第一批在文中国公民接种国药疫苗加强针的通知](http://bn.chineseembassy.org/chn/zytz/202111/t20211104_10442161.htm)</small>|
+| 马里 <small style="color: #14b714; font-weight: bold"><sup>New</sup></small>| 2021/11/02| 中国疫苗(科兴| 免费| <small>[关于在马实施第二阶段“春苗行动”的通知](http://ml.china-embassy.org/zxxx/202111/t20211102_10439925.htm)</small>|
+| 泰国(普吉 | 2021/09/23| -| -| <small>[关于开展“‘春苗行动’到普吉”为泰国南部地区中国公民接种疫苗的通知](http://www.chinaembassy.or.th/chn/sgxw/t1908090.htm)</small>|
+| 阿联酋(迪拜 | 2021/09/14~11/13| 中国疫苗(国药| -| <small>[关于提供“春苗行动”二次报名机会的通知](http://dubai.chineseconsulate.org/chn/xwdt/t1906809.htm)</small>|
+| 古巴 | 2021/08/21| 中国疫苗(国药| 付费| <small>[关于在古巴实施“春苗行动”报名和初步安排的通知(第一期)](http://cu.chineseembassy.org/chn/sgxx/t1900968.htm)</small>|
+| 莱索托 | 2021/08/21| 中国疫苗(国药| -| <small>[“春苗行动”在莱索托落地实施](https://www.fmprc.gov.cn/web/zwbd_673032/jghd_673046/t1901105.shtml)</small>|
+| 坦桑尼亚 | 2021/08/20| -| -| <small>[“春苗行动”在坦桑尼亚启动](http://www.xinhuanet.com/2021-08/20/c_1127781363.htm)</small>|
+| 柬埔寨 | 2021/08/06| 中国疫苗| -| <small>[关于实施在柬中国公民第二阶段“春苗行动”的通知](http://kh.china-embassy.org/chn/tzgg/t1897927.htm)</small>|
 | 巴林| 2021/07/28| 中国疫苗(国药| - | [关于为巴林境内持短期签证中国公民接种新冠疫苗的通知](http://bh.china-embassy.org/chn/zytz/t1895688.htm)|
 | 刚果(金 | 2021/07/21| -| -| <small>[关于在刚果（金）中国公民报名接种新冠疫苗的补充通知](http://cd.china-embassy.org/chn/lqhzjfw/t1894130.htm)</small>|
 | 科特迪瓦 | 2021/07/19~24| 中国疫苗(国药| -| <small>[关于在科特迪瓦启动“春苗行动”的通知](http://ci.chineseembassy.org/chn/zxyw/t1892491.htm)</small>|
