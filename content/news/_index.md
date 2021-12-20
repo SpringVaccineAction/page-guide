@@ -10,6 +10,7 @@ weight: 2
 
 # Latest News
 
+* 2021-12-14 [提醒在孟加拉回国公民及时进行登机前第14天/21天核酸检测预检](http://bd.china-embassy.org/sghd/202112/t20211214_10469604.htm)
 * 2021-10-11 [关于开展第二阶段在越“春苗行动”疫苗接种意愿登记的通知](http://vn.china-embassy.org/chn/lsyw/t1913565.htm)
 * 2021-09-18 [关于开展“‘春苗行动’到普吉”为泰国南部地区中国公民接种疫苗的通知](http://www.chinaembassy.or.th/chn/sgxw/t1908090.htm)
 * 2021-09-17 [埃及“春苗行动”中国公民疫苗接种基本完成](https://www.fmprc.gov.cn/web/zwbd_673032/gzhd_673042/t1907657.shtml)
