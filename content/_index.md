@@ -30,7 +30,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
-| 津巴布韦 <small style="color: #14b714; font-weight: bold"><sup>第三剂</sup></small>| 2021/12/16～19| 中国疫苗| -| <small>[关于启动在津中国公民加强免疫接种专项安排的通知](http://www.chinaembassy.org.zw/chn/zysxtx/202112/t20211214_10469739.htm)</small>|
+| 津巴布韦 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup></small>| 2021/12/16～19| 中国疫苗| -| <small>[关于启动在津中国公民加强免疫接种专项安排的通知](http://www.chinaembassy.org.zw/chn/zysxtx/202112/t20211214_10469739.htm)</small>|
 | 文莱 | 2021/11/04| 中国疫苗(国药| -| <small>[关于组织第一批在文中国公民接种国药疫苗加强针的通知](http://bn.chineseembassy.org/chn/zytz/202111/t20211104_10442161.htm)</small>|
 | 马里 | 2021/11/02| 中国疫苗(科兴| 免费| <small>[关于在马实施第二阶段“春苗行动”的通知](http://ml.china-embassy.org/zxxx/202111/t20211102_10439925.htm)</small>|
 | 泰国(普吉 | 2021/09/23| -| -| <small>[关于开展“‘春苗行动’到普吉”为泰国南部地区中国公民接种疫苗的通知](http://www.chinaembassy.or.th/chn/sgxw/t1908090.htm)</small>|
