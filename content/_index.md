@@ -30,6 +30,8 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 泰国 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup>| 2022/01/26～03/31| 中国疫苗(科兴| -| <small>[中国驻泰国使馆启动“春苗行动”加强针接种工作](http://www.chinaembassy.or.th/chn/sgxw/202201/t20220126_10634321.htmlm)</small>|
+| 博茨瓦纳 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup>| 2022/01/22| 中国疫苗(科兴| 免费| <small>[驻博茨瓦纳使馆关于“春苗行动”科兴疫苗加强针接种安排的通知](http://bw.chineseembassy.org/gdxw/202201/t20220120_10631211.htm)</small>|
 | 津巴布韦 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup></small>| 2021/12/16～19| 中国疫苗| -| <small>[关于启动在津中国公民加强免疫接种专项安排的通知](http://www.chinaembassy.org.zw/chn/zysxtx/202112/t20211214_10469739.htm)</small>|
 | 文莱 | 2021/11/04| 中国疫苗(国药| -| <small>[关于组织第一批在文中国公民接种国药疫苗加强针的通知](http://bn.chineseembassy.org/chn/zytz/202111/t20211104_10442161.htm)</small>|
 | 马里 | 2021/11/02| 中国疫苗(科兴| 免费| <small>[关于在马实施第二阶段“春苗行动”的通知](http://ml.china-embassy.org/zxxx/202111/t20211102_10439925.htm)</small>|
