@@ -30,6 +30,7 @@ type: docs
 
 | 国家(及周边受惠国或区) | 启动时间| 可选疫苗 | 费用 |数源及备注 |
 | :--- | :--- | :--- | :--- | :--- |
+| 卢旺达 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup>| 2022/03/8| 中国疫苗(科兴| -| <small>[“春苗行动”加强免疫接种在卢旺达正式启动](http://rw.china-embassy.org/tpxw/202203/t20220308_10649886.htm)</small>|
 | 泰国 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup>| 2022/01/26～03/31| 中国疫苗(科兴| -| <small>[中国驻泰国使馆启动“春苗行动”加强针接种工作](http://www.chinaembassy.or.th/chn/sgxw/202201/t20220126_10634321.htmlm)</small>|
 | 博茨瓦纳 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup>| 2022/01/22| 中国疫苗(科兴| 免费| <small>[驻博茨瓦纳使馆关于“春苗行动”科兴疫苗加强针接种安排的通知](http://bw.chineseembassy.org/gdxw/202201/t20220120_10631211.htm)</small>|
 | 津巴布韦 <small style="color: #14b714; font-weight: bold"><sup>加强针剂</sup></small>| 2021/12/16～19| 中国疫苗| -| <small>[关于启动在津中国公民加强免疫接种专项安排的通知](http://www.chinaembassy.org.zw/chn/zysxtx/202112/t20211214_10469739.htm)</small>|
